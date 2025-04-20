@@ -22,11 +22,7 @@ que deve fornecer informações acerca dos personagens. Essas informações ser�
 1. Instale as dependências:
    ```bash
    npm install
-   # ou
-   yarn install
    
 2. Inicie o servidor de desenvolvimento:
    ```bash
    npm run start
-   # ou
-   yarn start
