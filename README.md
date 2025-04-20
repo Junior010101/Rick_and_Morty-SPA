@@ -17,7 +17,7 @@ que deve fornecer informações acerca dos personagens. Essas informações ser�
 
 ### Pré-requisitos
 - Node.js (v18 ou superior)
-- Gerenciador de pacotes: npm ou yarn
+- Gerenciador de pacotes: npm
 
 1. Instale as dependências:
    ```bash
