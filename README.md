@@ -26,3 +26,8 @@ que deve fornecer informações acerca dos personagens. Essas informações ser�
 2. Inicie o servidor de desenvolvimento:
    ```bash
    npm run start
+
+---
+**Desenvolvido por [Junior010101](https://github.com/Junior010101)**
+
+**Professor: [savio-almeida](https://github.com/savio-almeida)**
